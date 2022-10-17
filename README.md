@@ -10,8 +10,8 @@
 
 I am also a fanatic Competetive Programmer.
 
-Codechef :- https://www.codechef.com/users/ecstasy_1337
-Codeforces :- https://codeforces.com/profile/ecstasy1101
+- Codechef :- https://www.codechef.com/users/ecstasy_1337
+- Codeforces :- https://codeforces.com/profile/ecstasy1101
 
 <!---
 fallen-ecstasy/fallen-ecstasy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
