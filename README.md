@@ -1,6 +1,6 @@
 ![](https://github.com/fallen-ecstasy/fallen-ecstasy/blob/main/Blue%20Modern%20Gradient%20Technology%20LinkedIn%20Banner%20(1).png?raw=true)
 <h3 align="center">
-  Hi There! I'm <a href="https://github.com/fallen-ecstasy">Harsh</a>
+  Hi👋🏻 There! I'm <a href="https://github.com/fallen-ecstasy">Harsh</a>
 </h3>
 
 <h2 align="center">
