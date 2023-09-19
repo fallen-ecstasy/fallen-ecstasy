@@ -17,7 +17,7 @@ I'm a Backend Developer 💻, Photographer 📸, and Trader 📈 !
 
 ## 🔭 I'm currently working on
 
-- My Personal Projects
+- Personal Projects
 - Audiobook App (Backend)
 - Smart Healthcare Ecosystem Infra (Working on it soon...)
 - My Design Thinking Skills
