@@ -57,7 +57,7 @@ I'm a Backend Developer 💻, Photographer 📸, and Trader 📈 !
 
 
 ## 🎖️ Badges and Acheivements
-[![@fallenecstasy's Holopin board](https://holopin.me/fallenecstasy)](https://holopin.io/@fallenecstasy)
+[![An image of @fallenecstasy's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/fallenecstasy)](https://holopin.io/@fallenecstasy)
 
 
 ## 📈 GitHub Stats 
